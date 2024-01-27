@@ -1,0 +1,13 @@
+DerivedData/
+*.xccheckout
+*.xcodeproj/*.pbxuser
+*.xcodeproj/xcshareddata/
+Pods/
+Carthage/
+SwiftPackageManager/
+*.build/
+*.moved-aside
+*.xcuserstate
+**/GoogleService-Info.plist
+.env*
+
